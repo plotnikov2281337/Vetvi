@@ -10,7 +10,8 @@ namespace ConsoleApp6
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello, it's me, MariO!!");
+            Console.WriteLine();
         }
     }
 }
